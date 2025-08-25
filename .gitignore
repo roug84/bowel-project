@@ -2,6 +2,9 @@
 bowel_env/
 venv/
 .env/
+bowel_env/
+bowel_dataset/
+
 
 # Ignore datasets
 data/
