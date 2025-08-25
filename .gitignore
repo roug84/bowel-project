@@ -1,0 +1,21 @@
+# Ignore virtual environments
+bowel_env/
+venv/
+.env/
+
+# Ignore datasets
+data/
+bowel_dataset/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
